@@ -14,5 +14,6 @@ public class SecondActivity extends AppCompatActivity {
     /* Comment made for merge testing
     *  Just some other words in this comment made for testing pull request.
     *
+    *  This is only written in Branch01.
     * */
 }
