@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Ravno Iz Zagreba</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="welcome">Welcome to GitHub</string>
 </resources>
