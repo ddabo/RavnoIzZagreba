@@ -11,5 +11,8 @@ public class SecondActivity extends AppCompatActivity {
         setContentView(R.layout.activity_second);
     }
 
-    /* Comment made for merge testing*/
+    /* Comment made for merge testing
+    *  Just some other words in this comment made for testing pull request.
+    *
+    * */
 }
