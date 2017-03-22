@@ -15,5 +15,7 @@ public class SecondActivity extends AppCompatActivity {
     *  Just some other words in this comment made for testing pull request.
     *
     *  This is only written in Branch01.
+    *  So this is only written in Branch02. Yes it is.
+    *  This is Branch02 code.
     * */
 }
