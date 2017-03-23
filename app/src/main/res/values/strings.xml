@@ -3,4 +3,53 @@
     <string name="hello_world">Hello World!</string>
     <string name="welcome">Welcome to GitHub</string>
     <string name="take_me_to_list_view">Take me to ListView</string>
+
+    <string-array name="string_array_weekday_titles">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string-array name="string_array_weekday_descriptions">
+        <item>I don\'t care if Monday\'s blue</item>
+        <item>Tuesday\'s grey </item>
+        <item>and Wednesday too</item>
+        <item>Thursday I don\'t care about you</item>
+        <item>It\'s Friday I\'m in love</item>
+        <item>Saturday wait</item>
+        <item>And Sunday always comes too late</item>
+        <item>I don\'t care if Monday\'s blue</item>
+        <item>Tuesday\'s grey </item>
+        <item>and Wednesday too</item>
+        <item>Thursday I don\'t care about you</item>
+        <item>It\'s Friday I\'m in love</item>
+        <item>Saturday wait</item>
+        <item>And Sunday always comes too late</item>
+        <item>I don\'t care if Monday\'s blue</item>
+        <item>Tuesday\'s grey </item>
+        <item>and Wednesday too</item>
+        <item>Thursday I don\'t care about you</item>
+        <item>It\'s Friday I\'m in love</item>
+        <item>Saturday wait</item>
+        <item>And Sunday always comes too late</item>
+    </string-array>
+
 </resources>

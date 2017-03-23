@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //Changing the text in TextView
         textViewHelloWorld = (TextView) findViewById(R.id.text_hello_world);
         textViewHelloWorld.setText(getResources().getText(R.string.welcome));
     }
