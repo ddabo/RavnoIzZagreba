@@ -4,6 +4,14 @@
     <string name="welcome">Welcome to GitHub</string>
     <string name="take_me_to_list_view">Take me to ListView</string>
     <string name="take_me_to_fab">Take me to FAB</string>
+    <string name="take_me_to_details">Take me to details</string>
+    <string name="location">Location</string>
+    <string name="mountains">Mountains</string>
+    <string name="date_example">September 8, 2016</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices ex fermentum, vehicula augue sed, aliquam magna. Etiam eget lectus et augue fringilla aliquet. Praesent et risus lacus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices ex fermentum, vehicula augue sed, aliquam magna. Etiam eget lectus et augue fringilla aliquet. Praesent et risus lacus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices ex fermentum, vehicula augue sed, aliquam magna. Etiam eget lectus et augue fringilla aliquet. Praesent et risus lacus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices ex fermentum, vehicula augue sed, aliquam magna. Etiam eget lectus et augue fringilla aliquet. Praesent et risus lacus.</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="date">Date</string>
 
     <string-array name="string_array_weekday_titles">
         <item>Monday</item>

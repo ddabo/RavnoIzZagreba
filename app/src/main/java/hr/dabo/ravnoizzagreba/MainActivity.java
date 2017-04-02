@@ -29,6 +29,11 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, FabActivity.class);
         startActivity(intent);
     }
+
+    public void onClickToDetails(View view) {
+        Intent intent = new Intent(this, DetailActivity.class);
+        startActivity(intent);
+    }
     
     /* Comment made straight from GitHub editor. */
 }
